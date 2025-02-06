@@ -9,7 +9,7 @@
 
 ## 😎 About Me  
 
-👋 Hey, I'm Hung! I specialize in backend development, cloud infrastructure, and distributed systems. I enjoy building scalable, high-performance systems with FastAPI, AWS, Kafka, and PostgreSQL.
+👋 Hey, I'm Johnathan! I specialize in backend development, cloud infrastructure, and distributed systems. I enjoy building scalable, high-performance systems with FastAPI, AWS, Kafka, and PostgreSQL.
 
 🔹 I focus on building efficient, reliable backend services and optimizing cloud infrastructure.
 🔹 Strong believer in automation, clean architecture, and system reliability.
