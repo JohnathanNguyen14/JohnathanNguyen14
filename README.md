@@ -9,17 +9,13 @@
 
 ## 😎 About Me  
 
-🖥️ **Backend wizard**, cloud enthusiast, and occasional Stack Overflow explorer.  
-☁️ Love building **scalable, high-performance systems** in the cloud (aka, making things go **brrr** on AWS).  
-🐍 Python is my weapon of choice, but I also vibe with **FastAPI, Kafka, Redis, and PostgreSQL**.  
-📉 Have I broken production before? Maybe. Did I fix it? Also yes.  
+👋 Hey, I'm Hung! I specialize in backend development, cloud infrastructure, and distributed systems. I enjoy building scalable, high-performance systems with FastAPI, AWS, Kafka, and PostgreSQL.
 
-🚀 **Currently working on:**  
-- Taming **distributed systems** with Kafka & AWS  
-- Automating everything with Terraform  
-- Finding the perfect coffee-to-code ratio ☕💻  
+🔹 I focus on building efficient, reliable backend services and optimizing cloud infrastructure.
+🔹 Strong believer in automation, clean architecture, and system reliability.
+🔹 Always exploring new ways to make systems faster, more scalable, and easier to maintain.
 
-💡 Fun fact: I once spent **3 hours debugging** only to realize the issue was a missing **semicolon**. 😅  
+🌱 Currently Learning: Advanced Kubernetes orchestration, cloud security, and large-scale system design.
 
 📫 **Hit me up at:** johnathannguyen1402@gmail.com
 
