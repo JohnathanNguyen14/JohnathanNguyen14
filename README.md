@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hung Truong 👋</h1>
+<h1 align="center">Hey there, I'm Johnathan! 👋</h1>
 <h3 align="center">Backend Engineer | Cloud & DevOps Enthusiast | AWS | FastAPI | Kafka | PostgreSQL</h3>
 
 <p align="center">
@@ -7,14 +7,21 @@
 
 ---
 
-## 🚀 About Me  
+## 😎 About Me  
 
-🔹 Passionate about **backend engineering, distributed systems, and cloud infrastructure**  
-🔹 Experienced in **FastAPI, AWS, Kafka, Docker, PostgreSQL, and Redis**  
-🔹 Love solving **scalability and system design challenges**  
+🖥️ **Backend wizard**, cloud enthusiast, and occasional Stack Overflow explorer.  
+☁️ Love building **scalable, high-performance systems** in the cloud (aka, making things go **brrr** on AWS).  
+🐍 Python is my weapon of choice, but I also vibe with **FastAPI, Kafka, Redis, and PostgreSQL**.  
+📉 Have I broken production before? Maybe. Did I fix it? Also yes.  
 
-🌱 **Currently Learning:** Kubernetes, Cloud Security, Event-Driven Architectures  
-📫 **Reach me at:** hungkhanh.truong112@gmail.com  
+🚀 **Currently working on:**  
+- Taming **distributed systems** with Kafka & AWS  
+- Automating everything with Terraform  
+- Finding the perfect coffee-to-code ratio ☕💻  
+
+💡 Fun fact: I once spent **3 hours debugging** only to realize the issue was a missing **semicolon**. 😅  
+
+📫 **Hit me up at:** johnathannguyen1402@gmail.com
 
 ---
 
@@ -64,9 +71,9 @@
 ### **1️⃣ Cloud-Powered E-commerce API**  
 🛠 **Tech:** FastAPI, AWS Lambda, DynamoDB, Redis, Docker  
 📌 **Features:**  
-✔️ Serverless API with **AWS Lambda & API Gateway**  
-✔️ Secure payments using **Stripe API & JWT authentication**  
-✔️ Optimized **order storage with Redis & DynamoDB**  
+✔️ **Serverless API** with AWS Lambda & API Gateway, handling **1M+ requests/month**  
+✔️ **Secure transactions** via Stripe API & JWT authentication  
+✔️ **Optimized caching** with Redis & DynamoDB for faster order processing  
 
 🔗 [GitHub Repo](https://github.com/Hungruong/Cloud-Ecommerce-API)
 
@@ -75,9 +82,9 @@
 ### **2️⃣ FoodMatch (Tinder for Food)**  
 🛠 **Tech:** FastAPI, Kafka, PostgreSQL, Redis, AWS S3  
 📌 **Features:**  
-✔️ **Real-time recommendation engine** with Kafka streaming  
-✔️ Optimized **PostgreSQL database for 50K+ food items**  
-✔️ Integrated **AWS S3 & CloudFront** for image storage  
+✔️ **Real-time recommendation engine** using Kafka for **100K+ daily interactions**  
+✔️ **Optimized PostgreSQL database** for storing **50K+ food items**  
+✔️ **AWS S3 & CloudFront integration** for fast image delivery  
 
 🔗 [GitHub Repo](https://github.com/Hungruong/FoodMatch)
 
@@ -99,4 +106,4 @@
 
 ---
 
-🎯 **"Always learning, always building."** 🚀  
+💡 **"Backend is life, frontend is pain. Automate everything."** 🚀  
